@@ -4157,3 +4157,1192 @@
 [INFO ] 2023-10-17 12:29:24.866 [main] LoggerLoad - The user is enters pythoncode
 [INFO ] 2023-10-17 12:29:24.883 [main] LoggerLoad - The user clicks run button
 [INFO ] 2023-10-17 12:29:25.112 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-17 12:44:00.423 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-17 12:44:00.425 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-17 12:44:00.426 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-17 12:44:03.396 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-17 12:44:03.623 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-17 12:44:04.177 [main] LoggerLoad - The user clicks Arrays in Python link
+[INFO ] 2023-10-17 12:44:04.526 [main] LoggerLoad - The user is redirected to Arrays in Python page
+[INFO ] 2023-10-17 12:44:04.528 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/arrays-in-python/
+[INFO ] 2023-10-17 12:44:04.761 [main] LoggerLoad - The user is on Arrays in Python page
+[INFO ] 2023-10-17 12:44:04.762 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-17 12:44:05.444 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:05.446 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 12:44:05.462 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:05.729 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:06.061 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:06.301 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:06.327 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 12:44:06.345 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:06.570 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:44:06.604 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:08.691 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-17 12:44:08.707 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-17 12:44:08.844 [main] LoggerLoad - The user clicks Arrays Using List link
+[INFO ] 2023-10-17 12:44:08.950 [main] LoggerLoad - The user should be redirected to Arrays Using List page
+[INFO ] 2023-10-17 12:44:08.951 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/arrays-using-list/
+[INFO ] 2023-10-17 12:44:08.957 [main] LoggerLoad - The user is on Arrays Using List page
+[INFO ] 2023-10-17 12:44:09.038 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-17 12:44:09.279 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:09.282 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 12:44:09.288 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:09.542 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:09.579 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:09.798 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:09.802 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 12:44:09.808 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:10.054 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:44:10.116 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:12.207 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-17 12:44:12.216 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-17 12:44:12.332 [main] LoggerLoad - The user clicks Basic Operations in Lists page
+[INFO ] 2023-10-17 12:44:12.430 [main] LoggerLoad - The user should be redirected to Basic Operations in Lists page
+[INFO ] 2023-10-17 12:44:12.432 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/basic-operations-in-lists/
+[INFO ] 2023-10-17 12:44:12.437 [main] LoggerLoad - The user is on the Basic Operations in Lists page
+[INFO ] 2023-10-17 12:44:12.513 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-17 12:44:12.762 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:12.763 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 12:44:12.769 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:13.000 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:13.026 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:13.256 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:13.264 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:44:13.279 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:13.530 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:44:13.560 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:15.624 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-17 12:44:15.636 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-17 12:44:15.762 [main] LoggerLoad - The user clicks Applications of Array link
+[INFO ] 2023-10-17 12:44:15.854 [main] LoggerLoad - The user should be redirected to Applications of Array page
+[INFO ] 2023-10-17 12:44:15.856 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/applications-of-array/
+[INFO ] 2023-10-17 12:44:15.862 [main] LoggerLoad - The user is on the Applications of Array after logged in
+[INFO ] 2023-10-17 12:44:15.938 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-17 12:44:16.188 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:16.189 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 12:44:16.196 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:16.429 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:16.467 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:16.698 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:16.796 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 12:44:16.800 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:17.042 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:44:17.064 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:17.312 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-17 12:44:17.439 [main] LoggerLoad - The user clicks Practice Questions link
+[INFO ] 2023-10-17 12:44:17.527 [main] LoggerLoad - The user should be redirected to Practice page
+[INFO ] 2023-10-17 12:44:17.528 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/practice
+[INFO ] 2023-10-17 12:44:17.532 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-17 12:44:17.607 [main] LoggerLoad - The user clicks the Search the array link
+[INFO ] 2023-10-17 12:44:17.850 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-17 12:44:17.851 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/1
+[INFO ] 2023-10-17 12:44:17.856 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-17 12:44:18.172 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:18.203 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:18.235 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:18.250 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-17 12:44:18.557 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:18.585 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-17 12:44:18.803 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:19.822 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-17 12:44:19.834 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-17 12:44:20.184 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:44:20.205 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:22.257 [main] LoggerLoad - Actual Error message is  : SyntaxError: bad input on line 1
+[INFO ] 2023-10-17 12:44:22.271 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-17 12:44:22.343 [main] LoggerLoad - The user clicks the Max Consecutive Ones link
+[INFO ] 2023-10-17 12:44:22.552 [main] LoggerLoad - The user should be redirected to question page contains a tryEditor
+[INFO ] 2023-10-17 12:44:22.554 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/2
+[INFO ] 2023-10-17 12:44:22.560 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-17 12:44:22.862 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:22.887 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:22.918 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:22.929 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-17 12:44:23.227 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:23.253 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-17 12:44:23.467 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:24.483 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-17 12:44:24.494 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-17 12:44:24.820 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:44:24.840 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:26.890 [main] LoggerLoad - Actual Error message is  : SyntaxError: bad input on line 1
+[INFO ] 2023-10-17 12:44:26.900 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-17 12:44:26.981 [main] LoggerLoad - The user clicks on  Find Numbers with Even Number of Digits
+[INFO ] 2023-10-17 12:44:27.201 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-17 12:44:27.203 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/3
+[INFO ] 2023-10-17 12:44:27.211 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-17 12:44:27.517 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:27.543 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:27.570 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:27.596 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-17 12:44:27.890 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:27.916 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-17 12:44:28.125 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:29.145 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-17 12:44:29.154 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-17 12:44:29.473 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:44:29.493 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:31.540 [main] LoggerLoad - Actual Error message is  : SyntaxError: bad input on line 1
+[INFO ] 2023-10-17 12:44:31.548 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-17 12:44:31.624 [main] LoggerLoad - The user clicks on  Squares of a Sorted Array
+[INFO ] 2023-10-17 12:44:31.828 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-17 12:44:31.829 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/4
+[INFO ] 2023-10-17 12:44:31.834 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-17 12:44:32.134 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:32.161 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:32.189 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:32.212 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-17 12:44:33.554 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:33.582 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-17 12:44:33.800 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:34.814 [main] LoggerLoad - The result is : No tests were collected
+[INFO ] 2023-10-17 12:44:34.822 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-17 12:44:35.132 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:44:35.154 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:37.207 [main] LoggerLoad - Actual Error message is  : SyntaxError: bad input on line 1
+[INFO ] 2023-10-17 12:44:37.223 [main] LoggerLoad - The user is on the DS page
+[INFO ] 2023-10-17 12:44:37.342 [main] LoggerLoad - User is on Time Complexity in DS page in Python
+[INFO ] 2023-10-17 12:44:37.419 [main] LoggerLoad - The user should be redirected to Time Complexity in DS page
+[INFO ] 2023-10-17 12:44:37.420 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/data-structures-introduction/time-complexity/
+[INFO ] 2023-10-17 12:44:37.426 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:37.893 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:37.928 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:38.153 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:38.163 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 12:44:38.170 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:38.653 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:44:38.681 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:40.740 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-17 12:44:40.753 [main] LoggerLoad - The user is on Graph Page
+[INFO ] 2023-10-17 12:44:40.976 [main] LoggerLoad - The user clicks Graph Page link
+[INFO ] 2023-10-17 12:44:41.175 [main] LoggerLoad - The user should be redirected to Graph page
+[INFO ] 2023-10-17 12:44:41.176 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/graph/graph/
+[INFO ] 2023-10-17 12:44:41.180 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:41.421 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:41.438 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:41.659 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:41.663 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:44:41.669 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:41.917 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:44:41.932 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:42.170 [main] LoggerLoad - The user is on Graph Page
+[INFO ] 2023-10-17 12:44:42.295 [main] LoggerLoad - User click on Graph Representations in Python
+[INFO ] 2023-10-17 12:44:42.527 [main] LoggerLoad - The user should be redirected to Graph Representations page
+[INFO ] 2023-10-17 12:44:42.528 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/graph/graph-representations/
+[INFO ] 2023-10-17 12:44:42.532 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:42.782 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:44:42.802 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:43.023 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:43.030 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:44:43.037 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:43.284 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:44:43.311 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:45.373 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-17 12:44:45.385 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:45.478 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-17 12:44:45.649 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:45.653 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:45.724 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-17 12:44:45.888 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:45.893 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:45.964 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-17 12:44:46.128 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:46.132 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:46.207 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-17 12:44:46.377 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:46.380 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:46.450 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-17 12:44:46.621 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:46.626 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:46.699 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-17 12:44:46.871 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:46.877 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:46.950 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-17 12:44:47.125 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:47.128 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:47.414 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-10-17 12:44:47.553 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:47.561 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:47.918 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-10-17 12:44:48.049 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:48.052 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:48.335 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-10-17 12:44:48.496 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:48.500 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:48.787 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-10-17 12:44:48.948 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:48.952 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:49.237 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-10-17 12:44:49.400 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:49.404 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:49.693 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-10-17 12:44:49.853 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 12:44:49.858 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:50.039 [main] LoggerLoad - User redirected to Register page 
+[INFO ] 2023-10-17 12:44:50.043 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-17 12:44:50.046 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 12:44:50.213 [main] LoggerLoad - User redirected to Login page 
+[INFO ] 2023-10-17 12:44:50.214 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-10-17 12:44:50.222 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 12:44:50.344 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-17 12:44:50.526 [main] LoggerLoad - The user is on Introduction Link
+[INFO ] 2023-10-17 12:44:50.528 [main] LoggerLoad - Title of current page is : Introduction
+[INFO ] 2023-10-17 12:44:50.532 [main] LoggerLoad - The user is Introduction Page
+[INFO ] 2023-10-17 12:44:50.615 [main] LoggerLoad - The user clicks Try Here Button
+[INFO ] 2023-10-17 12:44:51.136 [main] LoggerLoad - The user is on tryEditor Page
+[INFO ] 2023-10-17 12:44:51.138 [main] LoggerLoad - Title of current page is : Assessment
+[INFO ] 2023-10-17 12:44:51.144 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:44:51.407 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:44:51.429 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:51.651 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:51.668 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:44:51.674 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:44:51.946 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:44:51.967 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:52.202 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 12:44:52.339 [main] LoggerLoad - User clicks on creating Linkes LIst
+[INFO ] 2023-10-17 12:44:52.477 [main] LoggerLoad - The user is on Creating Linked LIst Link
+[INFO ] 2023-10-17 12:44:52.478 [main] LoggerLoad - Title of current page is : Creating Linked LIst
+[INFO ] 2023-10-17 12:44:52.482 [main] LoggerLoad - User is on creating Linkes LIst
+[INFO ] 2023-10-17 12:44:52.564 [main] LoggerLoad - User clicks on Try Here Link
+[INFO ] 2023-10-17 12:44:53.050 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:53.052 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 12:44:53.058 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:44:53.552 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:44:53.689 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:53.925 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:53.930 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 12:44:53.939 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:44:54.195 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:44:54.221 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:56.291 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-17 12:44:56.310 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 12:44:56.440 [main] LoggerLoad - The user clicks the Types of Linked List button
+[INFO ] 2023-10-17 12:44:56.861 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-17 12:44:56.863 [main] LoggerLoad - Title of current page is : Types of Linked List
+[INFO ] 2023-10-17 12:44:56.871 [main] LoggerLoad - The user is on the Types of Linked list page
+[INFO ] 2023-10-17 12:44:57.143 [main] LoggerLoad - The user clicks Try Here button on Types of linked list page
+[INFO ] 2023-10-17 12:44:57.461 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:57.462 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 12:44:57.467 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:44:57.949 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:44:57.986 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:58.212 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:44:58.229 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 12:44:58.235 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:44:58.498 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:44:58.519 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:44:58.751 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 12:44:59.008 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-10-17 12:44:59.226 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-17 12:44:59.228 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-10-17 12:44:59.233 [main] LoggerLoad - user clicks the Implement Linked List in Python page
+[INFO ] 2023-10-17 12:44:59.707 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:44:59.708 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 12:44:59.713 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:44:59.951 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:44:59.969 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:00.190 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:45:00.195 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:45:00.203 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:45:00.462 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:45:00.482 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:00.712 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 12:45:00.833 [main] LoggerLoad - The user clicks the Traversal button
+[INFO ] 2023-10-17 12:45:01.127 [main] LoggerLoad - The user is on Traversal of Linked List Page
+[INFO ] 2023-10-17 12:45:01.129 [main] LoggerLoad - Title of current page is : Traversal
+[INFO ] 2023-10-17 12:45:01.134 [main] LoggerLoad - The user is on the Traversal Page 
+[INFO ] 2023-10-17 12:45:01.381 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-17 12:45:01.627 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:45:01.628 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 12:45:01.632 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:45:01.864 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:45:01.887 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:02.114 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:45:02.121 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:45:02.127 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:45:02.371 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:45:02.388 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:02.619 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 12:45:02.741 [main] LoggerLoad - The user clicks the Insertion button
+[INFO ] 2023-10-17 12:45:02.991 [main] LoggerLoad - The user is on Insertion Page
+[INFO ] 2023-10-17 12:45:02.992 [main] LoggerLoad - Title of current page is : Insertion
+[INFO ] 2023-10-17 12:45:02.997 [main] LoggerLoad - The user is on the Insertion button
+[INFO ] 2023-10-17 12:45:03.210 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-17 12:45:03.492 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:45:03.494 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 12:45:03.498 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:45:03.738 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:45:03.757 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:03.990 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:45:03.995 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:45:04.002 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:45:04.352 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:45:04.368 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:04.605 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 12:45:04.723 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-17 12:45:04.861 [main] LoggerLoad - The user is on Deletion Page
+[INFO ] 2023-10-17 12:45:04.862 [main] LoggerLoad - Title of current page is : Deletion
+[INFO ] 2023-10-17 12:45:04.865 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-17 12:45:04.959 [main] LoggerLoad - The user clicks Try Here button on Deletion page
+[INFO ] 2023-10-17 12:45:05.202 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:45:05.203 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 12:45:05.207 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:45:05.685 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:45:05.723 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:05.945 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:45:05.952 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 12:45:05.958 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 12:45:06.210 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 12:45:06.227 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:06.459 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 12:45:06.586 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-17 12:45:06.720 [main] LoggerLoad - The user clicks on the Practice Questions
+[INFO ] 2023-10-17 12:45:06.800 [main] LoggerLoad - The user is on Practice Questions of Linked List Page
+[INFO ] 2023-10-17 12:45:06.801 [main] LoggerLoad - Title of current page is : Practice Questions
+[INFO ] 2023-10-17 12:45:06.807 [main] LoggerLoad - User is on DSAlgo portal page
+[INFO ] 2023-10-17 12:45:06.905 [main] LoggerLoad - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-10-17 12:45:06.988 [main] LoggerLoad - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-10-17 12:45:06.995 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-17 12:45:07.111 [main] LoggerLoad - The user clicks implementation of Queue link
+[INFO ] 2023-10-17 12:45:07.186 [main] LoggerLoad - The user is redirected to Arrays in Python page
+[INFO ] 2023-10-17 12:45:07.187 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/implementation-lists/
+[INFO ] 2023-10-17 12:45:07.191 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:45:07.436 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:45:07.453 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:07.670 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:45:07.677 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:45:07.683 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:45:08.172 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:45:08.192 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:08.430 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-17 12:45:08.583 [main] LoggerLoad - The user clicks Implementation using Collections link
+[INFO ] 2023-10-17 12:45:08.663 [main] LoggerLoad - The user is redirected to Implementation using Collections page
+[INFO ] 2023-10-17 12:45:08.664 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/implementation-collections/
+[INFO ] 2023-10-17 12:45:08.667 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:45:08.908 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:45:08.926 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:09.147 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:45:09.154 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:45:09.160 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:45:09.394 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:45:09.416 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:09.662 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-17 12:45:09.824 [main] LoggerLoad - The user clicks Implementation using Collections link
+[INFO ] 2023-10-17 12:45:09.900 [main] LoggerLoad - The user is redirected to Implementation using Array page
+[INFO ] 2023-10-17 12:45:09.901 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/Implementation-array/
+[INFO ] 2023-10-17 12:45:09.904 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:45:10.385 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:45:10.410 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:10.631 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:45:10.636 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:45:10.642 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:45:10.906 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:45:10.923 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:11.152 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-17 12:45:11.274 [main] LoggerLoad - The user clicks Queue Operations link
+[INFO ] 2023-10-17 12:45:11.352 [main] LoggerLoad - The user is redirected to Queue Operations page
+[INFO ] 2023-10-17 12:45:11.353 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/QueueOp/
+[INFO ] 2023-10-17 12:45:11.356 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:45:11.831 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:45:11.856 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:12.079 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:45:12.085 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:45:12.092 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:45:12.355 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:45:12.370 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:45:12.612 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 12:45:12.697 [main] LoggerLoad - The user did not enter any inputs in the fields
+[INFO ] 2023-10-17 12:45:12.929 [main] LoggerLoad - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-10-17 12:45:12.939 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 12:45:13.031 [main] LoggerLoad - The user enter valid username with other fields empty
+[INFO ] 2023-10-17 12:45:13.031 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 12:45:13.263 [main] LoggerLoad - Error message is displayed  an error below Password textbox
+[INFO ] 2023-10-17 12:45:13.267 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 12:45:13.364 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 12:45:13.371 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-17 12:45:13.601 [main] LoggerLoad - Error message is displayed  an error below Password textbox
+[INFO ] 2023-10-17 12:45:13.608 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 12:45:13.699 [main] LoggerLoad - The user enter username : &**&**&
+[INFO ] 2023-10-17 12:45:13.706 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-17 12:45:13.812 [main] LoggerLoad - Expected Error message is: Please enter a valid username
+[INFO ] 2023-10-17 12:45:13.815 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 12:45:13.819 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 12:45:13.897 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 12:45:13.904 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-17 12:45:13.997 [main] LoggerLoad - Expected Error message is: password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 12:45:13.999 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 12:45:14.003 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 12:45:14.079 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 12:45:14.086 [main] LoggerLoad - The user enter password : a1b2c3d
+[INFO ] 2023-10-17 12:45:14.178 [main] LoggerLoad - Expected Error message is: Password should contain at least 8 characters
+[INFO ] 2023-10-17 12:45:14.181 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 12:45:14.184 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 12:45:14.262 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 12:45:14.267 [main] LoggerLoad - The user enter password : 12345678
+[INFO ] 2023-10-17 12:45:14.362 [main] LoggerLoad - Expected Error message is: Password can’t be entirely numeric.
+[INFO ] 2023-10-17 12:45:14.365 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 12:45:14.368 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 12:45:14.447 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 12:45:14.452 [main] LoggerLoad - The user enter password : testsdet84
+[INFO ] 2023-10-17 12:45:14.546 [main] LoggerLoad - Expected Error message is: password can’t be too similar to your other personal information.
+[INFO ] 2023-10-17 12:45:14.550 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 12:45:14.553 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 12:45:14.630 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 12:45:14.636 [main] LoggerLoad - The user enter password : Welcome1
+[INFO ] 2023-10-17 12:45:14.739 [main] LoggerLoad - Expected Error message is: Password can’t be commonly used password
+[INFO ] 2023-10-17 12:45:14.743 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 12:45:14.749 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 12:45:14.829 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 12:45:14.834 [main] LoggerLoad - The user enter password : RT56YUabc
+[INFO ] 2023-10-17 12:45:14.930 [main] LoggerLoad - Expected Error message is: Username already exists
+[INFO ] 2023-10-17 12:45:14.933 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 12:45:14.938 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 12:45:15.015 [main] LoggerLoad - The user enter username : Nump@sdet1031
+[INFO ] 2023-10-17 12:45:15.022 [main] LoggerLoad - The user enter password : siseli11
+[INFO ] 2023-10-17 12:45:15.114 [main] LoggerLoad - Valid User redirected to Homepage 
+[INFO ] 2023-10-17 12:45:15.115 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-17 12:45:15.118 [main] LoggerLoad - The user is in sign in page already
+[INFO ] 2023-10-17 12:46:18.864 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-17 12:46:18.949 [main] LoggerLoad - User click on Operations in Stack page in Python
+[INFO ] 2023-10-17 12:46:19.180 [main] LoggerLoad - Then user should be redirected to Operations in Stack page
+[INFO ] 2023-10-17 12:46:19.181 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/operations-in-stack/
+[INFO ] 2023-10-17 12:46:19.185 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:19.512 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:19.533 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:19.753 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:19.757 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:19.764 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:20.023 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:20.038 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:20.276 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-17 12:46:20.363 [main] LoggerLoad - User click on Implementations Page in Python
+[INFO ] 2023-10-17 12:46:20.452 [main] LoggerLoad - TThe user should be redirected to Implementations Page
+[INFO ] 2023-10-17 12:46:20.453 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/implementation/
+[INFO ] 2023-10-17 12:46:20.465 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:20.715 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:20.733 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:20.966 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:20.969 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:20.976 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:21.218 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:21.234 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:21.475 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-17 12:46:21.572 [main] LoggerLoad - User click on Applications Page in Python
+[INFO ] 2023-10-17 12:46:21.659 [main] LoggerLoad - The user should be redirected to Applications Page
+[INFO ] 2023-10-17 12:46:21.660 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/stack-applications/
+[INFO ] 2023-10-17 12:46:21.663 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:21.916 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:21.933 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:22.155 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:22.160 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:22.167 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:22.423 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:22.440 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:22.996 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/overview-of-trees/
+[INFO ] 2023-10-17 12:46:23.000 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:23.251 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:23.270 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:23.497 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:23.502 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:23.508 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:23.761 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:23.778 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:24.275 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/terminologies/
+[INFO ] 2023-10-17 12:46:24.278 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:24.524 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:24.542 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:24.761 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:24.771 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:24.778 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:25.042 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:25.058 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:25.487 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/types-of-trees/
+[INFO ] 2023-10-17 12:46:25.492 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:25.755 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:25.774 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:25.993 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:25.998 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:26.009 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:26.280 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:26.297 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:26.764 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/tree-traversals/
+[INFO ] 2023-10-17 12:46:26.767 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:27.017 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:27.036 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:27.255 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:27.259 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:27.264 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:27.525 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:27.541 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:27.987 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/traversals-illustration/
+[INFO ] 2023-10-17 12:46:27.990 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:28.232 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:28.250 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:28.469 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:28.476 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:28.481 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:28.752 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:28.769 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:29.224 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-trees/
+[INFO ] 2023-10-17 12:46:29.227 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:29.469 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:29.485 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:29.705 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:29.710 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:30.054 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/types-of-binary-trees/
+[INFO ] 2023-10-17 12:46:30.058 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:30.301 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:30.319 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:30.540 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:30.544 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:30.550 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:30.805 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:30.818 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:31.274 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-in-python/
+[INFO ] 2023-10-17 12:46:31.278 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:31.515 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:31.532 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:31.751 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:31.756 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:31.762 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:32.012 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:32.032 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:32.467 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-tree-traversals/
+[INFO ] 2023-10-17 12:46:32.470 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:32.704 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:32.729 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:32.961 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:33.198 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:33.212 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:33.636 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-of-binary-trees/
+[INFO ] 2023-10-17 12:46:33.640 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:33.877 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:33.894 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:34.112 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:34.122 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:34.128 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:34.383 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:34.398 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:34.807 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/applications-of-binary-trees/
+[INFO ] 2023-10-17 12:46:34.813 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:35.383 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:35.407 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:35.630 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:35.635 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:35.642 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:35.896 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:35.912 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:36.599 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-search-trees/
+[INFO ] 2023-10-17 12:46:36.604 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:36.848 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:36.864 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:37.081 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:37.090 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:37.095 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:37.345 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:37.368 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:37.842 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-of-bst/
+[INFO ] 2023-10-17 12:46:37.845 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:38.150 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 12:46:38.167 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:38.385 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 12:46:38.390 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 12:46:38.396 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 12:46:38.666 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 12:46:38.685 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 12:46:40.756 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-17 12:46:40.765 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-17 13:32:33.309 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-17 13:32:33.311 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-17 13:32:33.312 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-17 13:32:36.188 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-17 13:32:36.412 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-17 13:32:36.994 [main] LoggerLoad - The user clicks Arrays in Python link
+[INFO ] 2023-10-17 13:32:37.345 [main] LoggerLoad - The user is redirected to Arrays in Python page
+[INFO ] 2023-10-17 13:32:37.346 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/arrays-in-python/
+[INFO ] 2023-10-17 13:32:37.441 [main] LoggerLoad - The user is on Arrays in Python page
+[INFO ] 2023-10-17 13:32:37.442 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-17 13:32:38.063 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:38.065 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 13:32:38.078 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:38.340 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:32:38.670 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:38.897 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:32:38.922 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 13:32:38.937 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:39.187 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:32:39.220 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:41.301 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-17 13:32:41.317 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-17 13:32:41.459 [main] LoggerLoad - The user clicks Arrays Using List link
+[INFO ] 2023-10-17 13:32:41.562 [main] LoggerLoad - The user should be redirected to Arrays Using List page
+[INFO ] 2023-10-17 13:32:41.564 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/arrays-using-list/
+[INFO ] 2023-10-17 13:32:41.570 [main] LoggerLoad - The user is on Arrays Using List page
+[INFO ] 2023-10-17 13:32:41.648 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-17 13:32:41.897 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:41.899 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 13:32:41.906 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:42.144 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:32:42.180 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:42.399 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:32:42.408 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 13:32:42.417 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:42.663 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:32:42.686 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:42.921 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-17 13:32:43.047 [main] LoggerLoad - The user clicks Basic Operations in Lists page
+[INFO ] 2023-10-17 13:32:43.146 [main] LoggerLoad - The user should be redirected to Basic Operations in Lists page
+[INFO ] 2023-10-17 13:32:43.147 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/basic-operations-in-lists/
+[INFO ] 2023-10-17 13:32:43.157 [main] LoggerLoad - The user is on the Basic Operations in Lists page
+[INFO ] 2023-10-17 13:32:43.233 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-17 13:32:43.537 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:43.539 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 13:32:43.545 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:43.792 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:32:43.828 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:44.049 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:32:44.057 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 13:32:44.066 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:44.325 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:32:44.356 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:46.469 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-17 13:32:46.481 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-17 13:32:46.612 [main] LoggerLoad - The user clicks Applications of Array link
+[INFO ] 2023-10-17 13:32:46.707 [main] LoggerLoad - The user should be redirected to Applications of Array page
+[INFO ] 2023-10-17 13:32:46.708 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/applications-of-array/
+[INFO ] 2023-10-17 13:32:46.713 [main] LoggerLoad - The user is on the Applications of Array after logged in
+[INFO ] 2023-10-17 13:32:46.790 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-17 13:32:47.043 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:47.045 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 13:32:47.051 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:47.304 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:32:47.339 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:47.568 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:32:47.576 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 13:32:47.584 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:32:47.853 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:32:47.882 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:49.935 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-17 13:32:49.945 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-17 13:32:50.086 [main] LoggerLoad - The user clicks Practice Questions link
+[INFO ] 2023-10-17 13:32:50.165 [main] LoggerLoad - The user should be redirected to Practice page
+[INFO ] 2023-10-17 13:32:50.167 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/practice
+[INFO ] 2023-10-17 13:32:50.176 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-17 13:32:50.250 [main] LoggerLoad - The user clicks the Search the array link
+[INFO ] 2023-10-17 13:32:50.498 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-17 13:32:50.500 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/1
+[INFO ] 2023-10-17 13:32:50.505 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-17 13:32:50.824 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:32:50.852 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:50.881 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:32:50.908 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-17 13:32:51.225 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:32:51.253 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-17 13:32:51.474 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:32:52.496 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-17 13:32:52.506 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-17 13:32:52.859 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:32:52.881 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:54.935 [main] LoggerLoad - Actual Error message is  : SyntaxError: bad input on line 1
+[INFO ] 2023-10-17 13:32:54.951 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-17 13:32:55.032 [main] LoggerLoad - The user clicks the Max Consecutive Ones link
+[INFO ] 2023-10-17 13:32:55.265 [main] LoggerLoad - The user should be redirected to question page contains a tryEditor
+[INFO ] 2023-10-17 13:32:55.266 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/2
+[INFO ] 2023-10-17 13:32:55.274 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-17 13:32:55.597 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:32:55.627 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:55.655 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:32:55.674 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-17 13:32:55.986 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:32:56.014 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-17 13:32:56.224 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:32:57.245 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-17 13:32:57.260 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-17 13:32:57.594 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:32:57.615 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:32:59.668 [main] LoggerLoad - Actual Error message is  : SyntaxError: bad input on line 1
+[INFO ] 2023-10-17 13:32:59.678 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-17 13:32:59.776 [main] LoggerLoad - The user clicks on  Find Numbers with Even Number of Digits
+[INFO ] 2023-10-17 13:33:00.008 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-17 13:33:00.009 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/3
+[INFO ] 2023-10-17 13:33:00.015 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-17 13:33:00.336 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:33:00.365 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:00.393 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:00.406 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-17 13:33:00.744 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:33:00.770 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-17 13:33:00.978 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:01.998 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-17 13:33:02.007 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-17 13:33:02.342 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:33:02.366 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:04.417 [main] LoggerLoad - Actual Error message is  : SyntaxError: bad input on line 1
+[INFO ] 2023-10-17 13:33:04.424 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-17 13:33:04.504 [main] LoggerLoad - The user clicks on  Squares of a Sorted Array
+[INFO ] 2023-10-17 13:33:04.729 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-17 13:33:04.730 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/4
+[INFO ] 2023-10-17 13:33:04.735 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-17 13:33:05.054 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:33:05.082 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:05.120 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:05.144 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-17 13:33:05.467 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:33:05.491 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-17 13:33:05.701 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:06.715 [main] LoggerLoad - The result is : No tests were collected
+[INFO ] 2023-10-17 13:33:06.722 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-17 13:33:07.043 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:33:07.062 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:09.118 [main] LoggerLoad - Actual Error message is  : SyntaxError: bad input on line 1
+[INFO ] 2023-10-17 13:33:09.133 [main] LoggerLoad - The user is on the DS page
+[INFO ] 2023-10-17 13:33:09.262 [main] LoggerLoad - User is on Time Complexity in DS page in Python
+[INFO ] 2023-10-17 13:33:09.341 [main] LoggerLoad - The user should be redirected to Time Complexity in DS page
+[INFO ] 2023-10-17 13:33:09.342 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/data-structures-introduction/time-complexity/
+[INFO ] 2023-10-17 13:33:09.346 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:09.601 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:33:09.637 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:09.859 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:09.865 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 13:33:09.872 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:10.107 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:33:10.124 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:10.356 [main] LoggerLoad - The user is on Graph Page
+[INFO ] 2023-10-17 13:33:10.478 [main] LoggerLoad - The user clicks Graph Page link
+[INFO ] 2023-10-17 13:33:10.584 [main] LoggerLoad - The user should be redirected to Graph page
+[INFO ] 2023-10-17 13:33:10.586 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/graph/graph/
+[INFO ] 2023-10-17 13:33:10.591 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:10.831 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:33:10.852 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:11.070 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:11.075 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:11.081 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:11.329 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:33:11.346 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:11.574 [main] LoggerLoad - The user is on Graph Page
+[INFO ] 2023-10-17 13:33:11.691 [main] LoggerLoad - User click on Graph Representations in Python
+[INFO ] 2023-10-17 13:33:11.882 [main] LoggerLoad - The user should be redirected to Graph Representations page
+[INFO ] 2023-10-17 13:33:11.883 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/graph/graph-representations/
+[INFO ] 2023-10-17 13:33:11.887 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:12.174 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:33:12.194 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:12.416 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:12.421 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:12.427 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:12.699 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:33:12.717 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:12.951 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:13.042 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-17 13:33:13.215 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:13.220 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:13.293 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-17 13:33:13.462 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:13.465 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:13.545 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-17 13:33:13.740 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:13.748 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:13.821 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-17 13:33:13.993 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:13.997 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:14.074 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-17 13:33:14.244 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:14.248 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:14.323 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-17 13:33:14.496 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:14.500 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:14.578 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-17 13:33:14.762 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:14.765 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:15.051 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-10-17 13:33:15.189 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:15.193 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:15.478 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-10-17 13:33:15.636 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:15.641 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:15.929 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-10-17 13:33:16.072 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:16.076 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:16.359 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-10-17 13:33:16.511 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:16.515 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:16.801 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-10-17 13:33:16.954 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:16.958 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:17.250 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-10-17 13:33:17.403 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-17 13:33:17.412 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:17.591 [main] LoggerLoad - User redirected to Register page 
+[INFO ] 2023-10-17 13:33:17.592 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-17 13:33:17.595 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-17 13:33:17.765 [main] LoggerLoad - User redirected to Login page 
+[INFO ] 2023-10-17 13:33:17.766 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-10-17 13:33:17.777 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 13:33:17.909 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-17 13:33:18.087 [main] LoggerLoad - The user is on Introduction Link
+[INFO ] 2023-10-17 13:33:18.088 [main] LoggerLoad - Title of current page is : Introduction
+[INFO ] 2023-10-17 13:33:18.092 [main] LoggerLoad - The user is Introduction Page
+[INFO ] 2023-10-17 13:33:18.176 [main] LoggerLoad - The user clicks Try Here Button
+[INFO ] 2023-10-17 13:33:18.507 [main] LoggerLoad - The user is on tryEditor Page
+[INFO ] 2023-10-17 13:33:18.509 [main] LoggerLoad - Title of current page is : Assessment
+[INFO ] 2023-10-17 13:33:18.513 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:18.755 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:18.776 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:19.000 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:19.007 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:19.014 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:19.291 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:19.311 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:19.555 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 13:33:19.707 [main] LoggerLoad - User clicks on creating Linkes LIst
+[INFO ] 2023-10-17 13:33:19.807 [main] LoggerLoad - The user is on Creating Linked LIst Link
+[INFO ] 2023-10-17 13:33:19.807 [main] LoggerLoad - Title of current page is : Creating Linked LIst
+[INFO ] 2023-10-17 13:33:19.811 [main] LoggerLoad - User is on creating Linkes LIst
+[INFO ] 2023-10-17 13:33:19.891 [main] LoggerLoad - User clicks on Try Here Link
+[INFO ] 2023-10-17 13:33:20.140 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:20.141 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 13:33:20.149 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:20.421 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:20.440 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:20.662 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:20.670 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:20.678 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:20.929 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:20.947 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:21.184 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 13:33:21.327 [main] LoggerLoad - The user clicks the Types of Linked List button
+[INFO ] 2023-10-17 13:33:21.498 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-17 13:33:21.499 [main] LoggerLoad - Title of current page is : Types of Linked List
+[INFO ] 2023-10-17 13:33:21.503 [main] LoggerLoad - The user is on the Types of Linked list page
+[INFO ] 2023-10-17 13:33:21.586 [main] LoggerLoad - The user clicks Try Here button on Types of linked list page
+[INFO ] 2023-10-17 13:33:21.828 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:21.829 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 13:33:21.833 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:22.073 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:22.092 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:22.314 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:22.319 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:22.324 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:22.579 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:22.597 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:22.828 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 13:33:22.953 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-10-17 13:33:23.074 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-17 13:33:23.075 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-10-17 13:33:23.082 [main] LoggerLoad - user clicks the Implement Linked List in Python page
+[INFO ] 2023-10-17 13:33:23.386 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:23.387 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 13:33:23.390 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:23.609 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:23.667 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:23.897 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:23.904 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 13:33:23.910 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:24.138 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:24.154 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:24.383 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 13:33:24.498 [main] LoggerLoad - The user clicks the Traversal button
+[INFO ] 2023-10-17 13:33:24.663 [main] LoggerLoad - The user is on Traversal of Linked List Page
+[INFO ] 2023-10-17 13:33:24.664 [main] LoggerLoad - Title of current page is : Traversal
+[INFO ] 2023-10-17 13:33:24.669 [main] LoggerLoad - The user is on the Traversal Page 
+[INFO ] 2023-10-17 13:33:24.748 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-17 13:33:24.998 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:24.998 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 13:33:25.003 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:25.295 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:25.315 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:25.538 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:25.544 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:25.550 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:25.824 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:25.841 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:26.080 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 13:33:26.207 [main] LoggerLoad - The user clicks the Insertion button
+[INFO ] 2023-10-17 13:33:26.305 [main] LoggerLoad - The user is on Insertion Page
+[INFO ] 2023-10-17 13:33:26.306 [main] LoggerLoad - Title of current page is : Insertion
+[INFO ] 2023-10-17 13:33:26.310 [main] LoggerLoad - The user is on the Insertion button
+[INFO ] 2023-10-17 13:33:26.387 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-17 13:33:26.627 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:26.628 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 13:33:26.632 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:26.871 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:26.887 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:27.106 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:27.114 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:27.121 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:27.366 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:27.382 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:27.614 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 13:33:27.730 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-17 13:33:27.822 [main] LoggerLoad - The user is on Deletion Page
+[INFO ] 2023-10-17 13:33:27.823 [main] LoggerLoad - Title of current page is : Deletion
+[INFO ] 2023-10-17 13:33:27.828 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-17 13:33:27.904 [main] LoggerLoad - The user clicks Try Here button on Deletion page
+[INFO ] 2023-10-17 13:33:28.179 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:28.180 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-17 13:33:28.184 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:28.423 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:28.440 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:28.660 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:28.668 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:28.674 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-17 13:33:28.937 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-17 13:33:28.962 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:31.018 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-17 13:33:31.027 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-17 13:33:31.170 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-17 13:33:31.305 [main] LoggerLoad - The user clicks on the Practice Questions
+[INFO ] 2023-10-17 13:33:31.392 [main] LoggerLoad - The user is on Practice Questions of Linked List Page
+[INFO ] 2023-10-17 13:33:31.393 [main] LoggerLoad - Title of current page is : Practice Questions
+[INFO ] 2023-10-17 13:33:31.399 [main] LoggerLoad - User is on DSAlgo portal page
+[INFO ] 2023-10-17 13:33:31.504 [main] LoggerLoad - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-10-17 13:33:31.588 [main] LoggerLoad - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-10-17 13:33:31.594 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-17 13:33:31.712 [main] LoggerLoad - The user clicks implementation of Queue link
+[INFO ] 2023-10-17 13:33:31.794 [main] LoggerLoad - The user is redirected to Arrays in Python page
+[INFO ] 2023-10-17 13:33:31.795 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/implementation-lists/
+[INFO ] 2023-10-17 13:33:31.798 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:32.123 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:33:32.142 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:32.361 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:32.367 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:32.372 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:32.624 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:33:32.643 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:32.887 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-17 13:33:33.021 [main] LoggerLoad - The user clicks Implementation using Collections link
+[INFO ] 2023-10-17 13:33:33.101 [main] LoggerLoad - The user is redirected to Implementation using Collections page
+[INFO ] 2023-10-17 13:33:33.102 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/implementation-collections/
+[INFO ] 2023-10-17 13:33:33.105 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:33.346 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:33:33.369 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:33.587 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:33.592 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:33.599 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:33.870 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:33:33.889 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:34.118 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-17 13:33:34.245 [main] LoggerLoad - The user clicks Implementation using Collections link
+[INFO ] 2023-10-17 13:33:34.322 [main] LoggerLoad - The user is redirected to Implementation using Array page
+[INFO ] 2023-10-17 13:33:34.323 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/Implementation-array/
+[INFO ] 2023-10-17 13:33:34.326 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:34.576 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:33:34.592 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:34.809 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:34.814 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:34.820 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:35.076 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:33:35.092 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:35.323 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-17 13:33:35.438 [main] LoggerLoad - The user clicks Queue Operations link
+[INFO ] 2023-10-17 13:33:35.525 [main] LoggerLoad - The user is redirected to Queue Operations page
+[INFO ] 2023-10-17 13:33:35.526 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/QueueOp/
+[INFO ] 2023-10-17 13:33:35.529 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:35.772 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:33:35.792 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:36.011 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:33:36.016 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:33:36.023 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:33:36.280 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:33:36.297 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:33:36.540 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 13:33:36.634 [main] LoggerLoad - The user did not enter any inputs in the fields
+[INFO ] 2023-10-17 13:33:36.865 [main] LoggerLoad - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-10-17 13:33:36.873 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 13:33:36.977 [main] LoggerLoad - The user enter valid username with other fields empty
+[INFO ] 2023-10-17 13:33:36.978 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 13:33:37.218 [main] LoggerLoad - Error message is displayed  an error below Password textbox
+[INFO ] 2023-10-17 13:33:37.225 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 13:33:37.309 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 13:33:37.318 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-17 13:33:37.546 [main] LoggerLoad - Error message is displayed  an error below Password textbox
+[INFO ] 2023-10-17 13:33:37.551 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 13:33:37.636 [main] LoggerLoad - The user enter username : &**&**&
+[INFO ] 2023-10-17 13:33:37.643 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-17 13:33:37.744 [main] LoggerLoad - Expected Error message is: Please enter a valid username
+[INFO ] 2023-10-17 13:33:37.748 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 13:33:37.752 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 13:33:37.825 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 13:33:37.832 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-17 13:33:37.923 [main] LoggerLoad - Expected Error message is: password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 13:33:37.929 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 13:33:37.932 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 13:33:38.010 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 13:33:38.016 [main] LoggerLoad - The user enter password : a1b2c3d
+[INFO ] 2023-10-17 13:33:38.108 [main] LoggerLoad - Expected Error message is: Password should contain at least 8 characters
+[INFO ] 2023-10-17 13:33:38.110 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 13:33:38.116 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 13:33:38.195 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 13:33:38.203 [main] LoggerLoad - The user enter password : 12345678
+[INFO ] 2023-10-17 13:33:38.294 [main] LoggerLoad - Expected Error message is: Password can’t be entirely numeric.
+[INFO ] 2023-10-17 13:33:38.296 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 13:33:38.300 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 13:33:38.377 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 13:33:38.383 [main] LoggerLoad - The user enter password : testsdet84
+[INFO ] 2023-10-17 13:33:38.475 [main] LoggerLoad - Expected Error message is: password can’t be too similar to your other personal information.
+[INFO ] 2023-10-17 13:33:38.478 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 13:33:38.481 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 13:33:38.560 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 13:33:38.565 [main] LoggerLoad - The user enter password : Welcome1
+[INFO ] 2023-10-17 13:33:38.657 [main] LoggerLoad - Expected Error message is: Password can’t be commonly used password
+[INFO ] 2023-10-17 13:33:38.659 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 13:33:38.662 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 13:33:38.741 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-17 13:33:38.746 [main] LoggerLoad - The user enter password : RT56YUabc
+[INFO ] 2023-10-17 13:33:38.839 [main] LoggerLoad - Expected Error message is: Username already exists
+[INFO ] 2023-10-17 13:33:38.842 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-17 13:33:38.845 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-17 13:33:38.922 [main] LoggerLoad - The user enter username : Nump@sdet1031
+[INFO ] 2023-10-17 13:33:38.928 [main] LoggerLoad - The user enter password : siseli11
+[INFO ] 2023-10-17 13:33:39.022 [main] LoggerLoad - Valid User redirected to Homepage 
+[INFO ] 2023-10-17 13:33:39.023 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-17 13:33:39.026 [main] LoggerLoad - The user is in sign in page already
+[INFO ] 2023-10-17 13:34:42.700 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-17 13:34:42.779 [main] LoggerLoad - User click on Operations in Stack page in Python
+[INFO ] 2023-10-17 13:34:43.000 [main] LoggerLoad - Then user should be redirected to Operations in Stack page
+[INFO ] 2023-10-17 13:34:43.002 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/operations-in-stack/
+[INFO ] 2023-10-17 13:34:43.006 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:43.283 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:43.300 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:43.528 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:43.533 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:43.540 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:43.793 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:43.809 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:44.046 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-17 13:34:44.140 [main] LoggerLoad - User click on Implementations Page in Python
+[INFO ] 2023-10-17 13:34:44.231 [main] LoggerLoad - TThe user should be redirected to Implementations Page
+[INFO ] 2023-10-17 13:34:44.232 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/implementation/
+[INFO ] 2023-10-17 13:34:44.235 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:44.475 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:44.494 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:44.711 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:44.716 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:44.733 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:44.977 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:44.991 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:45.228 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-17 13:34:45.321 [main] LoggerLoad - User click on Applications Page in Python
+[INFO ] 2023-10-17 13:34:45.402 [main] LoggerLoad - The user should be redirected to Applications Page
+[INFO ] 2023-10-17 13:34:45.403 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/stack-applications/
+[INFO ] 2023-10-17 13:34:45.407 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:45.649 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:45.666 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:45.885 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:45.890 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:45.896 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:46.156 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:46.174 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:46.674 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/overview-of-trees/
+[INFO ] 2023-10-17 13:34:46.677 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:46.914 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:46.930 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:47.147 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:47.153 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:47.165 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:47.412 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:47.428 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:47.844 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/terminologies/
+[INFO ] 2023-10-17 13:34:47.848 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:48.080 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:48.130 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:48.347 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:48.356 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-17 13:34:48.362 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:48.675 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:48.690 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:49.121 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/types-of-trees/
+[INFO ] 2023-10-17 13:34:49.126 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:49.365 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:49.382 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:49.606 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:49.610 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:49.616 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:49.875 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:49.891 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:50.377 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/tree-traversals/
+[INFO ] 2023-10-17 13:34:50.380 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:50.633 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:50.650 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:50.870 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:50.874 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:50.878 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:51.157 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:51.174 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:51.643 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/traversals-illustration/
+[INFO ] 2023-10-17 13:34:51.646 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:51.887 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:51.903 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:52.121 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:52.129 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:52.133 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:52.375 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:52.516 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:52.954 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-trees/
+[INFO ] 2023-10-17 13:34:52.958 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:53.193 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:53.210 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:53.428 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:53.437 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:53.733 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/types-of-binary-trees/
+[INFO ] 2023-10-17 13:34:53.738 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:53.978 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:53.997 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:54.215 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:54.219 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:54.225 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:54.462 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:54.475 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:54.949 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-in-python/
+[INFO ] 2023-10-17 13:34:54.956 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:55.211 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:55.228 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:55.444 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:55.448 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:55.454 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:55.703 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:55.719 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:56.161 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-tree-traversals/
+[INFO ] 2023-10-17 13:34:56.164 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:56.402 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:56.416 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:56.645 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:56.890 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:56.915 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:57.356 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-of-binary-trees/
+[INFO ] 2023-10-17 13:34:57.359 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:57.594 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:57.616 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:57.841 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:57.848 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:57.854 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:58.110 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:58.128 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:58.546 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/applications-of-binary-trees/
+[INFO ] 2023-10-17 13:34:58.549 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:58.794 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:34:58.810 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:34:59.028 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:34:59.033 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:34:59.039 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:34:59.287 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:34:59.302 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:35:00.013 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-search-trees/
+[INFO ] 2023-10-17 13:35:00.020 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:35:00.275 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:35:00.298 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:35:00.530 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:35:00.534 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:35:00.540 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:35:00.774 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:35:00.787 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:35:01.223 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-of-bst/
+[INFO ] 2023-10-17 13:35:01.227 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:35:01.461 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-17 13:35:01.479 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:35:01.699 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-17 13:35:01.707 [main] LoggerLoad - The result is :
+[INFO ] 2023-10-17 13:35:01.714 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-17 13:35:01.978 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-17 13:35:01.995 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-17 13:35:02.228 [main] LoggerLoad - Closing Driver

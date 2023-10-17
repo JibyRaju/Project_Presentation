@@ -5,7 +5,8 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(plugin = { "pretty", "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 									"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
-									"html:Reports/Cucumber-Reports/Reports.json"},
+									"html:Reports/Cucumber-Reports/Reports.html",
+									"json:Reports/Cucumber-reports/Reports.json"},
 
 monochrome = false,
 features = { "src/test/resources/features" }, 
